@@ -18,4 +18,7 @@ Windows:
 
 OBS.: Caso prefira, o usuário também poderá baixar e instalar o aplicativo Code Blocks, compilar e executar o código através dele, para ambos os sistemas operacionais.
 
+Desenvolvido a fim de cumprimento da Atividade Acadêmica de Computação I - UFRRJ
+Desenvolvido por Gabriel Antonio, Gabriela Almeida e Leonardo Lucena
+
 
